@@ -1,0 +1,27 @@
+.image{
+    width:250px;
+    height:180px;
+    padding: 10px;
+}
+
+.bg-container{
+    background-color: rgb(240, 122, 181);
+    height: 90vh;
+    background-size: cover;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color:white;
+    background-color: rgb(220, 20, 137);
+    
+}
+h2{
+    color:white;
+    font-family: Cambria;
+}
+
+.div1{
+    padding: 10px;
+
+}

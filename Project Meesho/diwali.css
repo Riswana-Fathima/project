@@ -1,0 +1,28 @@
+.div1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    background-position: fixed;
+}
+
+.div2{
+    color:white;
+    font-size: 40px;
+    font-family: chiller;
+    margin-left: 15px;
+}
+
+.diwali{
+    text-align: center;
+    border: 5px solid white;
+    background-color: white;
+    margin: 10px;
+    
+
+}
+
+.diwali2{
+     background-color: aquamarine;
+}
+button{
+    margin-left: 46%;
+}

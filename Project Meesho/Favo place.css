@@ -1,0 +1,33 @@
+.image{
+    width:210px;
+    height:180px;
+    padding: 10px;
+}
+
+.bg-container{
+    background-color: rgb(58, 71, 245);
+    /* height: 90vh; */
+    background-size: cover;
+    padding: 10px;
+}
+h1{
+    text-align: left;
+    color:white;
+    font-weight: bolder;
+    
+    
+}
+h2{
+    color:rgb(39, 39, 239);
+    font-family: Cambria;
+}
+
+.div1{
+    background-color: white;
+    
+
+}
+.div2{
+    margin: 10px;
+    border-radius: 15px;
+}

@@ -1,0 +1,63 @@
+/* .div1{
+    height:400px;
+    width:50%;
+}
+
+.div2{
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px 10px 0px 0px!important;
+    background-color: white;
+    width:25%;
+}
+
+h3{
+font-family: Bree serif;
+font-weight: bolder;
+color:#5752ab;
+}
+p{
+    color:#323f4b;
+    font-weight: bolder;
+}
+
+body{
+    background-color: black;
+}
+button{
+    margin: 5px;
+} */
+
+
+.bg-container{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.card1{
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+.col-6{
+
+    width: 50%;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

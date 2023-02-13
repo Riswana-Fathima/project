@@ -1,0 +1,29 @@
+.divlogo{
+    background-image: url("https://www.leadsquared.com/wp-content/uploads/2019/12/Meesho.jpg");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: relative;
+}
+
+h1{
+font-weight: bolder;
+text-align: center;
+font-family: ROBOTO;
+color:rgb(245, 87, 166);
+}
+
+button{
+    text-align: center;
+    background-color: rgb(241, 79, 165);
+    color:white;
+    border:none;
+    width: 200px;
+    height:50px;
+    margin-left: 43%;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}

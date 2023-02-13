@@ -1,0 +1,26 @@
+.caro{
+    height: 70vh;
+
+}
+
+.img1{
+    margin: 10px;
+    height: 180px;
+    width: 180px;
+}
+
+.flexdiv{
+    padding: 20px;
+}
+.video1{
+    height:180px;
+    width:180px;
+    margin: 10px;
+    border-radius: 10px;
+}
+p{
+    color:#9aa5b1;
+}
+h3{
+    color:#323f4b;
+}
